@@ -43,6 +43,15 @@ The emphasis is on **how video conferencing works under the hood**, not on repli
 - WebRTC integration
 - Real-time UI state handling
 
+### screenshots
+<p float="left">
+  <img src="media_assets/home_screen.jpeg" alt="Home Screen" title="Home Screen" width="200" height="400">
+  <img src="media_assets/joining_meeting_screen.jpeg" alt="lobby Screen" title="lobby Screen" width="200" height="400">
+  <img src="media_assets/joining_meeting.jpeg" alt="join meeting Screen" title="join meeting Screen" width="200" height="400">
+  <img src="media_assets/minimized_meeting.jpeg" alt="minimized Screen" title="Watchlist Screen" width="200" height="400">
+  <img src="media_assets/participants_in_meeting.jpeg" alt="participants Screen" title="participants Screen" width="200" height="400">
+</p>
+
 ### Backend
 - Django / Node.js (signaling server)
 - WebSockets
